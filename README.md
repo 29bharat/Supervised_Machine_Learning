@@ -18,7 +18,7 @@ Data from the csv file was read into a dataframe and basic cleanup was applied l
   
 Features and Target were created and then the data was split into X_train, X_test, y_train and y_test.
   
-### OverSampling
+### OverSampling: https://github.com/29bharat/Supervised_Machine_Learning/blob/master/linear_regression_salary/credit_risk_resampling.ipynb
   
 #### Naive Random Oversampling
   
@@ -40,7 +40,7 @@ This model uses SMOTEENN method. The accuracy score is 0.56. From the confusion 
   
 Given the results of the above modesl, none of them is adequate enough to predict credist risk truly.
   
-## Challenge Extension
+## Challenge Extension: https://github.com/29bharat/Supervised_Machine_Learning/blob/master/linear_regression_salary/credit_risk_ensemble.ipynb
   
 ### Ensembling
   
